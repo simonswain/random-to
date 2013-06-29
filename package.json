@@ -1,6 +1,6 @@
 {
   "name": "random-to",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Give me a random integer from [0|1] to n",
   "main": "index.js",
   "scripts": {
